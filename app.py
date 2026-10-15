@@ -21,7 +21,7 @@ import numpy as np
 import plotly.express as px
 import streamlit as st
 
-st.set_page_config(page_title="Food Delivery Business Analytics", layout="wide", page_icon="🍔")
+st.set_page_config(page_title="Food Delivery Business Analytics", layout="wide", page_icon="")
 
 DATABASE_URL = os.environ.get("DATABASE_URL")
 
@@ -56,10 +56,10 @@ if cities:
 if categories:
     filtered = filtered[filtered["food_category"].isin(categories)]
 
-st.title("🍔 Food Delivery Business Analytics Dashboard")
+st.title("Food Delivery Business Analytics Dashboard")
 st.caption("Python (Pandas/NumPy) → PostgreSQL → this dashboard. Source: github.com/<your-username>/food-delivery-analytics")
 
-tab1, tab2, tab3, tab4 = st.tabs(["📈 Executive Overview", "👥 Customers", "🚚 Operations", "💼 Business Insights"])
+tab1, tab2, tab3, tab4 = st.tabs(["Executive Overview", "Customers", "Operations", "Business Insights"])
 
 # ----------------------------------------------------------------------
 # Tab 1: Executive Overview
