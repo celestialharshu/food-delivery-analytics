@@ -6,6 +6,9 @@ numpy>=1.24
 matplotlib>=3.7
 seaborn>=0.12
 
+# Statistical analysis and Plotly trendlines
+statsmodels>=0.14
+
 # Database connectivity
 psycopg2-binary>=2.9
 sqlalchemy>=2.0
