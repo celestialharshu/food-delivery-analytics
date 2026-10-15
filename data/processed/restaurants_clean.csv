@@ -1,0 +1,601 @@
+restaurant_id,restaurant_name,city,primary_category,avg_prep_time_min,onboarded_date
+REST000001,Green Express,Delhi,Fast Food,13,2022-07-22
+REST000002,The Grand Diner,Chennai,Chinese,18,2024-04-30
+REST000003,The Grand Point,Delhi,Beverages,16,2023-05-16
+REST000004,Golden Kitchen,Bengaluru,Chinese,12,2022-08-29
+REST000005,Punjab Bistro,Mumbai,Desserts,33,2024-03-10
+REST000006,Delhi House,Delhi,Italian,39,2023-12-08
+REST000007,Punjab Corner,Mumbai,Beverages,22,2023-01-07
+REST000008,Biryani Express,Mumbai,Desserts,23,2022-07-24
+REST000009,Curry Kitchen,Bengaluru,Beverages,38,2023-02-16
+REST000010,Delhi Bistro,Delhi,Italian,18,2022-08-02
+REST000011,The Grand Table,Mumbai,Desserts,10,2023-03-17
+REST000012,Green Express,Bengaluru,Bakery,21,2023-06-15
+REST000013,Spice Junction,Pune,Beverages,10,2023-11-02
+REST000014,Golden Bistro,Pune,Bakery,18,2022-07-31
+REST000015,Spice Bistro,Delhi,Biryani,34,2022-02-22
+REST000016,Green Express,Delhi,Bakery,16,2023-05-26
+REST000017,Spice House,Pune,Healthy Food,12,2022-03-29
+REST000018,Flavour Bistro,Bengaluru,Chinese,13,2023-11-03
+REST000019,Biryani Corner,Pune,Fast Food,16,2022-01-09
+REST000020,Metro Table,Mumbai,Bakery,34,2023-11-22
+REST000021,Urban Kitchen,Mumbai,Chinese,24,2022-03-24
+REST000022,Green Cafe,Chennai,Fast Food,33,2023-10-25
+REST000023,Spice Table,Chennai,South Indian,33,2022-01-25
+REST000024,Urban Diner,Delhi,Chinese,10,2022-08-13
+REST000025,Cloud Bowl,Ahmedabad,Beverages,15,2023-05-12
+REST000026,Spice Junction,Delhi,Biryani,31,2023-03-06
+REST000027,Urban Point,Kolkata,Fast Food,14,2023-03-04
+REST000028,Fresh Diner,Bengaluru,Chinese,20,2022-07-13
+REST000029,Royal Hub,Bengaluru,Italian,26,2022-04-28
+REST000030,Spice Kitchen,Hyderabad,Chinese,12,2024-04-14
+REST000031,Punjab Express,Mumbai,Chinese,21,2024-06-13
+REST000032,Fresh Junction,Mumbai,Healthy Food,29,2024-01-30
+REST000033,Golden Point,Bengaluru,Italian,39,2022-03-19
+REST000034,Cloud Bistro,Mumbai,Desserts,19,2022-06-01
+REST000035,Flavour Corner,Bengaluru,Chinese,16,2022-02-25
+REST000036,Biryani Express,Bengaluru,Biryani,24,2024-03-28
+REST000037,Curry Table,Mumbai,Italian,30,2022-12-23
+REST000038,The Grand Table,Hyderabad,Biryani,27,2022-09-16
+REST000039,Cloud Bistro,Mumbai,South Indian,28,2023-06-19
+REST000040,Flavour Bowl,Mumbai,Healthy Food,38,2023-11-05
+REST000041,Cloud Point,Pune,South Indian,39,2024-02-16
+REST000042,Curry Cafe,Bengaluru,Chinese,10,2023-08-17
+REST000043,Spice Cafe,Delhi,Chinese,39,2023-07-25
+REST000044,Curry Express,Mumbai,Fast Food,31,2023-08-01
+REST000045,Royal Bites,Hyderabad,Chinese,22,2023-02-10
+REST000046,Biryani Bowl,Mumbai,Biryani,38,2022-04-25
+REST000047,South Corner,Ahmedabad,Bakery,33,2024-03-13
+REST000048,Royal Bistro,Chennai,Beverages,13,2023-04-19
+REST000049,Delhi Express,Mumbai,North Indian,27,2024-01-24
+REST000050,South House,Chennai,Desserts,21,2022-11-30
+REST000051,Curry Bites,Delhi,South Indian,13,2023-09-13
+REST000052,Curry Bistro,Bengaluru,Biryani,35,2024-03-26
+REST000053,Cloud Bites,Mumbai,Bakery,13,2022-11-05
+REST000054,Golden Bowl,Mumbai,Biryani,14,2022-11-27
+REST000055,Metro Bistro,Chennai,Beverages,28,2023-06-28
+REST000056,Urban Bistro,Hyderabad,Biryani,18,2023-12-26
+REST000057,The Grand Table,Bengaluru,North Indian,16,2023-05-19
+REST000058,Biryani Junction,Mumbai,Biryani,34,2022-03-29
+REST000059,Delhi Tadka,Kolkata,North Indian,16,2023-07-28
+REST000060,Royal Corner,Delhi,Chinese,21,2022-01-03
+REST000061,Green Kitchen,Delhi,Italian,19,2024-02-13
+REST000062,Tasty Table,Delhi,Chinese,38,2023-01-18
+REST000063,Green Bites,Kolkata,South Indian,29,2023-09-16
+REST000064,Green Diner,Delhi,Chinese,30,2023-06-08
+REST000065,Biryani Tadka,Mumbai,Healthy Food,22,2023-07-19
+REST000066,South Table,Bengaluru,South Indian,32,2022-05-28
+REST000067,Golden Diner,Pune,Fast Food,15,2023-05-21
+REST000068,Golden Cafe,Delhi,Chinese,18,2023-10-08
+REST000069,Punjab Hub,Hyderabad,Healthy Food,28,2022-03-25
+REST000070,Fresh Express,Delhi,Beverages,33,2023-02-02
+REST000071,Metro Corner,Pune,Bakery,25,2022-07-03
+REST000072,Delhi Kitchen,Hyderabad,Chinese,36,2022-06-18
+REST000073,Cloud Bites,Hyderabad,South Indian,35,2023-07-15
+REST000074,Spice Cafe,Hyderabad,South Indian,20,2022-04-18
+REST000075,Green Corner,Mumbai,Fast Food,13,2022-07-12
+REST000076,Spice Point,Kolkata,Healthy Food,34,2024-05-01
+REST000077,Metro Hub,Hyderabad,South Indian,10,2022-08-02
+REST000078,Green Table,Delhi,South Indian,30,2022-12-26
+REST000079,Spice Bistro,Mumbai,Biryani,21,2022-04-05
+REST000080,Royal Cafe,Pune,Chinese,13,2023-06-27
+REST000081,Spice Tadka,Bengaluru,Chinese,14,2022-06-05
+REST000082,The Grand Express,Mumbai,Desserts,15,2023-06-08
+REST000083,Golden Express,Kolkata,Desserts,23,2022-09-29
+REST000084,Royal Bistro,Mumbai,Desserts,38,2024-01-07
+REST000085,Golden Bowl,Bengaluru,Fast Food,10,2022-06-12
+REST000086,Urban Hub,Hyderabad,Italian,17,2023-07-10
+REST000087,Punjab Table,Ahmedabad,Healthy Food,24,2024-04-15
+REST000088,Curry Express,Mumbai,Italian,21,2024-01-08
+REST000089,Royal Corner,Hyderabad,North Indian,36,2024-02-04
+REST000090,Flavour Cafe,Bengaluru,Biryani,28,2024-01-15
+REST000091,Royal Express,Delhi,Biryani,32,2024-02-10
+REST000092,Curry Bistro,Kolkata,Chinese,16,2024-03-09
+REST000093,Golden Hub,Chennai,Healthy Food,18,2022-06-29
+REST000094,Fresh Junction,Pune,Beverages,20,2022-08-11
+REST000095,Fresh Bistro,Kolkata,Beverages,36,2022-04-26
+REST000096,Spice Bistro,Pune,Fast Food,32,2022-01-05
+REST000097,Curry Hub,Bengaluru,Chinese,37,2024-02-12
+REST000098,Urban Kitchen,Delhi,Bakery,17,2022-03-07
+REST000099,Tasty Bowl,Pune,Fast Food,13,2023-06-11
+REST000100,Delhi Tadka,Hyderabad,Chinese,19,2023-03-25
+REST000101,South Hub,Bengaluru,Chinese,29,2022-05-29
+REST000102,Royal House,Hyderabad,North Indian,19,2022-04-11
+REST000103,Curry Hub,Hyderabad,Italian,17,2022-09-24
+REST000104,Punjab Hub,Ahmedabad,Healthy Food,23,2023-12-31
+REST000105,Royal Junction,Pune,Desserts,13,2023-07-08
+REST000106,Biryani Express,Mumbai,Desserts,38,2022-03-07
+REST000107,Punjab Bites,Bengaluru,Desserts,29,2022-12-16
+REST000108,Fresh Express,Hyderabad,Fast Food,35,2024-04-08
+REST000109,Fresh Bowl,Mumbai,South Indian,12,2024-04-07
+REST000110,Curry Junction,Kolkata,Fast Food,37,2022-04-30
+REST000111,Golden Corner,Mumbai,Bakery,12,2022-09-02
+REST000112,Curry Point,Hyderabad,Chinese,36,2023-01-24
+REST000113,Golden Express,Ahmedabad,Bakery,13,2022-10-14
+REST000114,Green Bistro,Pune,South Indian,21,2022-02-17
+REST000115,Spice Bowl,Hyderabad,Italian,38,2024-03-10
+REST000116,Spice Hub,Ahmedabad,Bakery,39,2024-04-04
+REST000117,Curry House,Chennai,Healthy Food,27,2024-02-06
+REST000118,Tasty Table,Ahmedabad,Beverages,37,2023-02-22
+REST000119,Flavour Bowl,Pune,Bakery,28,2022-12-17
+REST000120,Flavour House,Hyderabad,Healthy Food,20,2022-06-04
+REST000121,Golden Express,Pune,Chinese,37,2022-12-04
+REST000122,Royal Diner,Mumbai,South Indian,27,2022-09-18
+REST000123,South Bowl,Chennai,Healthy Food,23,2023-06-13
+REST000124,Biryani Hub,Ahmedabad,Desserts,20,2022-07-22
+REST000125,Tasty Kitchen,Hyderabad,Bakery,23,2024-06-03
+REST000126,The Grand Bistro,Mumbai,Italian,31,2023-03-16
+REST000127,Curry Diner,Mumbai,Italian,38,2022-06-15
+REST000128,Biryani Junction,Delhi,Bakery,12,2023-01-14
+REST000129,Urban Diner,Bengaluru,Bakery,11,2023-03-14
+REST000130,Cloud Corner,Delhi,Desserts,18,2022-02-17
+REST000131,Delhi Corner,Ahmedabad,Beverages,17,2022-08-17
+REST000132,Golden House,Kolkata,Bakery,14,2023-12-26
+REST000133,Spice Point,Delhi,Fast Food,38,2023-12-29
+REST000134,Golden Express,Chennai,Biryani,18,2024-03-27
+REST000135,Flavour Tadka,Hyderabad,Bakery,14,2023-11-12
+REST000136,Urban Express,Delhi,North Indian,30,2022-01-22
+REST000137,Fresh Diner,Kolkata,North Indian,22,2022-10-02
+REST000138,South Express,Delhi,Italian,20,2022-04-23
+REST000139,The Grand Express,Chennai,Biryani,20,2024-05-18
+REST000140,Tasty Bistro,Hyderabad,Biryani,29,2024-06-16
+REST000141,Biryani Diner,Hyderabad,Desserts,21,2023-12-16
+REST000142,Urban Bites,Chennai,Fast Food,28,2023-06-29
+REST000143,Curry House,Bengaluru,Bakery,22,2022-03-30
+REST000144,Metro Hub,Chennai,Bakery,35,2023-10-08
+REST000145,Curry Bites,Bengaluru,South Indian,18,2022-01-11
+REST000146,Biryani Bistro,Ahmedabad,Fast Food,13,2022-01-27
+REST000147,Green Table,Hyderabad,Fast Food,16,2023-04-01
+REST000148,Flavour Diner,Delhi,South Indian,14,2022-01-31
+REST000149,South Bistro,Pune,Biryani,16,2023-08-26
+REST000150,Biryani Corner,Bengaluru,Bakery,37,2023-03-23
+REST000151,Biryani House,Chennai,Fast Food,17,2023-03-04
+REST000152,Tasty Bites,Chennai,Fast Food,23,2023-11-12
+REST000153,Spice Express,Hyderabad,North Indian,33,2023-07-13
+REST000154,Green House,Chennai,North Indian,19,2023-08-14
+REST000155,Cloud Bowl,Delhi,North Indian,15,2023-05-29
+REST000156,Curry Kitchen,Mumbai,Biryani,14,2023-02-03
+REST000157,Spice Express,Hyderabad,Bakery,24,2023-06-16
+REST000158,Golden Tadka,Pune,South Indian,25,2023-01-22
+REST000159,Flavour Hub,Mumbai,Biryani,36,2023-09-10
+REST000160,Tasty Corner,Pune,Desserts,11,2024-03-17
+REST000161,Royal Junction,Hyderabad,Fast Food,37,2022-11-26
+REST000162,Golden Bites,Mumbai,Desserts,24,2023-08-25
+REST000163,The Grand House,Bengaluru,Italian,17,2022-05-18
+REST000164,Delhi Bites,Mumbai,Chinese,30,2023-11-11
+REST000165,Curry Table,Delhi,Italian,33,2023-10-15
+REST000166,South Hub,Chennai,Healthy Food,31,2023-12-26
+REST000167,Spice Hub,Mumbai,Biryani,33,2023-04-27
+REST000168,The Grand Corner,Bengaluru,Biryani,22,2022-10-27
+REST000169,Fresh Bites,Hyderabad,North Indian,26,2022-02-01
+REST000170,Tasty House,Kolkata,Fast Food,24,2023-04-02
+REST000171,The Grand Corner,Pune,Desserts,34,2023-06-26
+REST000172,Curry Tadka,Mumbai,Healthy Food,23,2023-01-20
+REST000173,Royal Cafe,Ahmedabad,Bakery,34,2024-03-31
+REST000174,Cloud Diner,Bengaluru,Bakery,28,2022-11-28
+REST000175,Cloud Tadka,Delhi,Desserts,22,2022-02-13
+REST000176,Tasty Corner,Mumbai,North Indian,30,2023-07-01
+REST000177,Cloud Express,Kolkata,North Indian,37,2023-02-28
+REST000178,Tasty Hub,Hyderabad,Beverages,16,2022-02-14
+REST000179,Flavour Table,Ahmedabad,Chinese,17,2023-01-15
+REST000180,Tasty Bistro,Mumbai,Beverages,16,2023-05-12
+REST000181,Urban Cafe,Bengaluru,Fast Food,28,2024-06-02
+REST000182,Curry Bites,Mumbai,North Indian,24,2024-06-10
+REST000183,Flavour Tadka,Bengaluru,Biryani,16,2022-05-18
+REST000184,South Bites,Kolkata,Healthy Food,26,2023-07-13
+REST000185,The Grand Express,Mumbai,Desserts,30,2023-02-12
+REST000186,Golden Bites,Delhi,South Indian,34,2022-07-04
+REST000187,Spice Corner,Hyderabad,Healthy Food,27,2023-05-04
+REST000188,Metro Diner,Mumbai,South Indian,28,2022-01-18
+REST000189,Royal Point,Bengaluru,Desserts,34,2023-11-28
+REST000190,Metro Tadka,Delhi,Bakery,12,2022-03-13
+REST000191,Biryani Table,Chennai,Italian,33,2023-09-27
+REST000192,Fresh Junction,Mumbai,Desserts,31,2022-06-20
+REST000193,Curry Bowl,Chennai,Italian,16,2022-03-18
+REST000194,Golden Express,Pune,Chinese,30,2023-02-04
+REST000195,Green Hub,Delhi,Biryani,19,2023-06-05
+REST000196,The Grand Hub,Mumbai,Fast Food,37,2022-07-20
+REST000197,Royal Bistro,Ahmedabad,North Indian,16,2024-01-25
+REST000198,South Diner,Bengaluru,Biryani,35,2023-08-04
+REST000199,Punjab Point,Delhi,Chinese,20,2022-08-27
+REST000200,Flavour Kitchen,Mumbai,Italian,35,2022-11-13
+REST000201,South Tadka,Mumbai,Healthy Food,38,2023-06-07
+REST000202,Delhi Bites,Hyderabad,Chinese,12,2022-11-16
+REST000203,Fresh Table,Bengaluru,Fast Food,36,2023-07-04
+REST000204,Golden Bowl,Pune,Biryani,30,2023-06-06
+REST000205,South Bites,Chennai,Desserts,31,2023-06-12
+REST000206,Green Bites,Delhi,Chinese,18,2023-04-22
+REST000207,Metro Bistro,Mumbai,Biryani,13,2022-11-21
+REST000208,Biryani Bowl,Chennai,Fast Food,17,2023-04-11
+REST000209,Golden Kitchen,Bengaluru,Desserts,39,2024-01-25
+REST000210,Flavour Point,Ahmedabad,Chinese,39,2024-01-29
+REST000211,Metro Bistro,Chennai,Biryani,33,2022-02-11
+REST000212,Golden Hub,Delhi,Italian,35,2022-08-22
+REST000213,Punjab Junction,Bengaluru,Healthy Food,31,2023-07-10
+REST000214,South Bites,Delhi,Fast Food,21,2023-03-13
+REST000215,Delhi House,Bengaluru,North Indian,17,2023-11-07
+REST000216,Biryani Bistro,Pune,Healthy Food,24,2023-10-24
+REST000217,Golden Bistro,Hyderabad,Biryani,37,2022-10-07
+REST000218,Golden Table,Delhi,Fast Food,23,2022-07-23
+REST000219,Delhi Kitchen,Chennai,Chinese,14,2024-01-13
+REST000220,The Grand Cafe,Mumbai,Healthy Food,26,2024-03-13
+REST000221,Golden Hub,Mumbai,Beverages,29,2022-11-02
+REST000222,Biryani Bistro,Delhi,Biryani,20,2024-04-30
+REST000223,Punjab Diner,Pune,Chinese,31,2024-04-25
+REST000224,Golden Cafe,Pune,Desserts,24,2023-05-25
+REST000225,Green Junction,Delhi,Italian,34,2022-10-23
+REST000226,Flavour Bistro,Pune,Chinese,22,2022-01-22
+REST000227,Spice House,Mumbai,Italian,39,2023-11-18
+REST000228,Golden Bowl,Delhi,South Indian,13,2022-08-30
+REST000229,Golden Junction,Pune,Fast Food,31,2024-04-22
+REST000230,Flavour House,Mumbai,Biryani,22,2023-08-01
+REST000231,Punjab Express,Mumbai,Fast Food,35,2023-01-29
+REST000232,Golden Express,Mumbai,South Indian,22,2023-03-03
+REST000233,Spice Bowl,Delhi,Beverages,20,2023-03-29
+REST000234,Spice Express,Chennai,Biryani,14,2023-05-22
+REST000235,Green Point,Chennai,Italian,34,2023-08-29
+REST000236,Golden Table,Chennai,Chinese,35,2022-08-01
+REST000237,Cloud Kitchen,Mumbai,Biryani,23,2022-08-29
+REST000238,Tasty Point,Ahmedabad,Bakery,31,2023-02-13
+REST000239,Biryani Kitchen,Bengaluru,South Indian,12,2023-09-14
+REST000240,Flavour Table,Chennai,Beverages,27,2023-07-13
+REST000241,South Table,Kolkata,Bakery,12,2024-05-21
+REST000242,Royal Express,Bengaluru,Biryani,15,2023-10-30
+REST000243,Delhi Point,Mumbai,Fast Food,35,2023-08-15
+REST000244,Fresh Bistro,Hyderabad,Beverages,17,2022-02-14
+REST000245,Urban Diner,Delhi,Healthy Food,33,2024-05-18
+REST000246,Punjab Tadka,Mumbai,Biryani,37,2023-12-08
+REST000247,Royal Kitchen,Mumbai,Fast Food,30,2022-08-25
+REST000248,Curry Express,Bengaluru,Italian,26,2023-12-24
+REST000249,Urban Kitchen,Mumbai,Chinese,10,2024-02-19
+REST000250,Urban Express,Chennai,Desserts,37,2023-08-18
+REST000251,Curry Junction,Delhi,Italian,16,2022-04-23
+REST000252,Delhi Bowl,Bengaluru,Italian,27,2024-02-18
+REST000253,Fresh Cafe,Mumbai,Beverages,38,2023-05-22
+REST000254,Golden Bistro,Chennai,Bakery,13,2023-10-05
+REST000255,Golden Corner,Pune,Fast Food,19,2024-04-08
+REST000256,Cloud House,Mumbai,North Indian,14,2023-03-26
+REST000257,Urban Express,Pune,Fast Food,17,2023-07-22
+REST000258,Curry Point,Mumbai,Desserts,35,2024-06-08
+REST000259,Spice Bites,Pune,North Indian,34,2024-01-20
+REST000260,Royal Point,Bengaluru,Chinese,22,2023-06-22
+REST000261,Spice Cafe,Mumbai,Desserts,26,2024-05-03
+REST000262,Tasty Diner,Bengaluru,Beverages,34,2024-01-27
+REST000263,Metro Tadka,Mumbai,Beverages,30,2022-07-28
+REST000264,Royal Hub,Hyderabad,Beverages,13,2022-10-17
+REST000265,Biryani Corner,Pune,Healthy Food,19,2023-05-13
+REST000266,Biryani House,Pune,South Indian,30,2022-07-02
+REST000267,Green Table,Kolkata,Chinese,39,2023-12-20
+REST000268,Royal Diner,Hyderabad,Beverages,34,2023-12-17
+REST000269,Green Table,Bengaluru,Desserts,17,2023-02-04
+REST000270,Tasty Point,Chennai,North Indian,19,2022-07-27
+REST000271,Punjab Junction,Kolkata,Bakery,22,2023-02-27
+REST000272,Delhi Kitchen,Pune,Beverages,21,2023-01-25
+REST000273,Spice Express,Kolkata,South Indian,30,2023-01-01
+REST000274,South Junction,Ahmedabad,Italian,22,2023-08-07
+REST000275,Cloud Bistro,Delhi,Beverages,36,2023-03-12
+REST000276,Fresh Corner,Mumbai,Italian,39,2022-11-08
+REST000277,Green House,Bengaluru,Desserts,19,2022-12-05
+REST000278,Cloud Table,Ahmedabad,Healthy Food,30,2022-05-27
+REST000279,Green Tadka,Mumbai,Fast Food,10,2023-12-17
+REST000280,Tasty Table,Pune,Chinese,18,2023-04-02
+REST000281,Curry Tadka,Chennai,Desserts,12,2024-05-10
+REST000282,The Grand Junction,Ahmedabad,Italian,26,2023-02-15
+REST000283,Fresh Bowl,Hyderabad,Healthy Food,30,2023-10-07
+REST000284,Green House,Delhi,South Indian,19,2022-10-09
+REST000285,Spice Tadka,Mumbai,Bakery,28,2023-02-18
+REST000286,Flavour Corner,Ahmedabad,Fast Food,15,2023-08-13
+REST000287,Urban Point,Kolkata,Healthy Food,16,2022-04-07
+REST000288,Punjab Bistro,Chennai,Bakery,20,2022-06-12
+REST000289,Fresh Bites,Kolkata,Beverages,25,2024-04-22
+REST000290,The Grand Point,Mumbai,Fast Food,13,2023-03-13
+REST000291,Delhi Corner,Hyderabad,Biryani,13,2022-07-15
+REST000292,Punjab House,Delhi,South Indian,27,2023-09-20
+REST000293,Fresh Diner,Pune,Italian,27,2022-06-10
+REST000294,Golden Diner,Mumbai,Desserts,16,2022-09-12
+REST000295,Metro Tadka,Delhi,Beverages,20,2022-03-11
+REST000296,Biryani Cafe,Chennai,Biryani,14,2023-02-16
+REST000297,Delhi Diner,Pune,Italian,30,2023-12-15
+REST000298,Green Bowl,Ahmedabad,Healthy Food,37,2022-02-05
+REST000299,Royal Point,Hyderabad,Beverages,27,2022-11-01
+REST000300,Fresh Bowl,Delhi,South Indian,16,2023-12-31
+REST000301,Flavour Express,Bengaluru,Healthy Food,11,2023-04-15
+REST000302,Punjab Bistro,Kolkata,Beverages,38,2022-11-05
+REST000303,Royal Table,Hyderabad,Fast Food,37,2022-07-16
+REST000304,Flavour Point,Kolkata,Chinese,14,2024-06-16
+REST000305,Urban Diner,Mumbai,Healthy Food,14,2023-04-26
+REST000306,South Table,Delhi,Beverages,28,2022-12-02
+REST000307,South House,Kolkata,Chinese,11,2024-04-18
+REST000308,Cloud Kitchen,Mumbai,Fast Food,28,2023-12-05
+REST000309,Urban Table,Bengaluru,Chinese,36,2024-02-28
+REST000310,Metro Express,Delhi,Chinese,14,2022-10-18
+REST000311,Fresh Bistro,Hyderabad,Beverages,21,2023-03-06
+REST000312,Punjab Bites,Mumbai,Healthy Food,22,2023-08-21
+REST000313,Golden Kitchen,Hyderabad,Fast Food,31,2024-06-01
+REST000314,Golden Corner,Ahmedabad,Italian,29,2023-03-08
+REST000315,Curry Diner,Delhi,Italian,16,2023-06-18
+REST000316,Punjab Corner,Bengaluru,Chinese,11,2023-10-08
+REST000317,Flavour House,Mumbai,Biryani,39,2023-05-25
+REST000318,Metro Bistro,Bengaluru,Bakery,31,2023-05-20
+REST000319,Curry Corner,Delhi,North Indian,23,2024-06-06
+REST000320,Delhi Point,Bengaluru,Chinese,34,2023-11-04
+REST000321,South Bowl,Delhi,South Indian,35,2024-03-17
+REST000322,Fresh Cafe,Delhi,Beverages,14,2023-07-09
+REST000323,Biryani Express,Hyderabad,Desserts,29,2023-02-13
+REST000324,Flavour Diner,Kolkata,North Indian,39,2023-02-06
+REST000325,Spice Bistro,Delhi,Chinese,34,2022-02-10
+REST000326,Delhi Table,Hyderabad,Italian,31,2023-01-19
+REST000327,Punjab Bowl,Bengaluru,Bakery,21,2024-06-04
+REST000328,Delhi Bites,Mumbai,Beverages,13,2022-10-18
+REST000329,Curry Point,Bengaluru,Chinese,26,2024-03-02
+REST000330,Tasty Point,Pune,Italian,25,2022-07-02
+REST000331,Royal Corner,Hyderabad,Beverages,34,2024-02-03
+REST000332,Cloud Bistro,Mumbai,Italian,19,2024-05-21
+REST000333,Fresh Cafe,Chennai,Healthy Food,12,2022-02-09
+REST000334,Green Bites,Mumbai,Desserts,31,2023-08-22
+REST000335,Flavour House,Delhi,South Indian,10,2022-08-13
+REST000336,Spice Kitchen,Hyderabad,North Indian,15,2022-10-12
+REST000337,South Junction,Mumbai,Biryani,12,2022-05-18
+REST000338,South Tadka,Mumbai,Chinese,28,2022-12-01
+REST000339,South Diner,Bengaluru,Beverages,36,2022-05-18
+REST000340,Flavour Bistro,Pune,Italian,16,2023-04-19
+REST000341,Urban Point,Delhi,Chinese,36,2023-05-03
+REST000342,Flavour Junction,Pune,Healthy Food,18,2023-07-30
+REST000343,South Bowl,Chennai,Desserts,31,2023-09-21
+REST000344,Spice Table,Ahmedabad,Desserts,21,2023-09-02
+REST000345,Royal Express,Delhi,Desserts,39,2022-05-26
+REST000346,Curry Diner,Hyderabad,Chinese,23,2024-06-16
+REST000347,Urban Corner,Delhi,Desserts,10,2023-02-13
+REST000348,Green Kitchen,Chennai,Italian,34,2023-05-25
+REST000349,Punjab Diner,Kolkata,South Indian,22,2022-03-26
+REST000350,Green Bites,Delhi,Chinese,30,2023-07-17
+REST000351,The Grand Corner,Hyderabad,Italian,11,2023-08-30
+REST000352,Curry Diner,Kolkata,North Indian,12,2024-02-29
+REST000353,Flavour Corner,Bengaluru,Beverages,20,2022-01-09
+REST000354,Fresh Diner,Pune,Fast Food,14,2024-05-08
+REST000355,Royal Point,Chennai,Healthy Food,37,2022-03-30
+REST000356,Biryani House,Chennai,Desserts,11,2022-03-30
+REST000357,Cloud Table,Bengaluru,Biryani,23,2022-08-07
+REST000358,Delhi Point,Kolkata,Healthy Food,37,2024-04-21
+REST000359,Flavour Point,Hyderabad,Desserts,22,2022-12-16
+REST000360,Cloud Bistro,Mumbai,Beverages,23,2024-06-09
+REST000361,Biryani Bowl,Hyderabad,Desserts,37,2024-06-18
+REST000362,Curry Point,Delhi,Desserts,12,2023-02-09
+REST000363,Urban Hub,Delhi,South Indian,17,2024-06-10
+REST000364,Punjab Bites,Chennai,Fast Food,22,2024-03-08
+REST000365,Urban Cafe,Ahmedabad,Desserts,31,2022-06-10
+REST000366,Delhi Table,Chennai,Bakery,21,2022-02-12
+REST000367,Royal Kitchen,Delhi,Fast Food,27,2023-04-19
+REST000368,Tasty Diner,Bengaluru,Italian,27,2024-01-28
+REST000369,Metro Bites,Ahmedabad,Desserts,26,2022-09-15
+REST000370,Golden Express,Kolkata,Desserts,16,2024-05-04
+REST000371,The Grand Kitchen,Ahmedabad,Biryani,31,2022-06-08
+REST000372,Punjab Hub,Bengaluru,Biryani,22,2022-05-12
+REST000373,Royal Bites,Chennai,Bakery,22,2023-07-13
+REST000374,Cloud Tadka,Chennai,North Indian,15,2024-05-01
+REST000375,Biryani Kitchen,Mumbai,South Indian,30,2023-08-24
+REST000376,Punjab Junction,Delhi,North Indian,28,2022-02-14
+REST000377,Delhi Point,Kolkata,Bakery,33,2022-11-17
+REST000378,Green Kitchen,Delhi,Beverages,28,2022-07-13
+REST000379,South Kitchen,Delhi,Biryani,30,2023-06-02
+REST000380,Curry Bites,Delhi,Chinese,33,2022-09-20
+REST000381,Curry Diner,Delhi,Chinese,39,2023-03-11
+REST000382,Flavour Point,Delhi,Beverages,37,2023-12-09
+REST000383,Curry Junction,Mumbai,Biryani,25,2023-06-14
+REST000384,Spice Point,Mumbai,Desserts,12,2024-06-05
+REST000385,Metro Tadka,Kolkata,Biryani,23,2022-10-24
+REST000386,Cloud Tadka,Mumbai,South Indian,30,2023-05-16
+REST000387,Fresh Kitchen,Delhi,Beverages,36,2023-09-11
+REST000388,Biryani Diner,Bengaluru,Fast Food,15,2022-03-10
+REST000389,The Grand Cafe,Pune,Desserts,26,2022-01-25
+REST000390,Tasty Bistro,Delhi,Beverages,25,2023-07-22
+REST000391,Golden Point,Delhi,Healthy Food,11,2023-05-28
+REST000392,Green Table,Mumbai,Beverages,32,2022-07-02
+REST000393,Metro Express,Kolkata,North Indian,18,2024-06-17
+REST000394,Flavour Bowl,Hyderabad,Fast Food,22,2022-02-23
+REST000395,Urban Express,Delhi,Italian,23,2022-03-22
+REST000396,Spice Bowl,Kolkata,Biryani,35,2022-06-09
+REST000397,Cloud Cafe,Mumbai,Beverages,29,2023-01-21
+REST000398,Green Hub,Delhi,Italian,30,2023-03-25
+REST000399,Fresh Cafe,Bengaluru,Chinese,21,2024-01-08
+REST000400,South Tadka,Bengaluru,Desserts,29,2022-09-21
+REST000401,Royal Point,Hyderabad,Biryani,20,2023-09-13
+REST000402,Metro Bowl,Delhi,Chinese,28,2022-11-05
+REST000403,Fresh Express,Pune,Fast Food,19,2022-02-13
+REST000404,Green Junction,Delhi,Bakery,27,2022-07-20
+REST000405,Punjab Tadka,Mumbai,North Indian,39,2022-10-11
+REST000406,Golden Bites,Pune,Bakery,12,2022-05-27
+REST000407,Metro Point,Kolkata,Bakery,25,2023-03-16
+REST000408,Spice Bites,Delhi,Biryani,27,2023-02-08
+REST000409,South Bowl,Hyderabad,Beverages,23,2023-12-12
+REST000410,South Table,Hyderabad,Biryani,33,2024-01-16
+REST000411,Spice Table,Chennai,South Indian,26,2022-07-03
+REST000412,Punjab Express,Mumbai,Beverages,14,2023-07-01
+REST000413,Tasty Bistro,Bengaluru,Italian,26,2022-07-28
+REST000414,The Grand Bites,Pune,South Indian,30,2024-05-21
+REST000415,Cloud Kitchen,Mumbai,Healthy Food,23,2023-07-29
+REST000416,Flavour Tadka,Bengaluru,Fast Food,12,2022-03-23
+REST000417,Green Bowl,Bengaluru,Beverages,34,2022-09-20
+REST000418,Urban Cafe,Chennai,Italian,24,2024-02-06
+REST000419,Biryani Tadka,Pune,Bakery,21,2022-02-08
+REST000420,Cloud Kitchen,Delhi,Italian,26,2022-10-13
+REST000421,Green Point,Delhi,Chinese,35,2022-01-23
+REST000422,Fresh Bistro,Pune,North Indian,26,2023-08-19
+REST000423,Royal Bowl,Pune,South Indian,33,2023-04-19
+REST000424,Urban Point,Mumbai,Healthy Food,28,2022-10-30
+REST000425,Golden Express,Delhi,North Indian,36,2022-07-25
+REST000426,Spice Diner,Chennai,Fast Food,16,2023-03-08
+REST000427,Fresh Bowl,Mumbai,South Indian,35,2022-04-05
+REST000428,Golden Bowl,Delhi,Italian,14,2023-04-20
+REST000429,Urban Tadka,Hyderabad,Beverages,11,2023-07-29
+REST000430,Golden Diner,Pune,Fast Food,25,2023-01-11
+REST000431,The Grand Cafe,Hyderabad,North Indian,39,2022-05-17
+REST000432,Tasty Point,Delhi,Chinese,22,2022-05-31
+REST000433,South Bowl,Ahmedabad,Bakery,20,2023-09-21
+REST000434,Fresh Bowl,Mumbai,Healthy Food,16,2023-12-04
+REST000435,Curry Diner,Bengaluru,North Indian,32,2022-07-21
+REST000436,Urban Diner,Bengaluru,Bakery,12,2022-09-07
+REST000437,Spice Cafe,Delhi,Italian,15,2023-08-22
+REST000438,Green Table,Bengaluru,Fast Food,14,2022-03-15
+REST000439,Punjab Express,Delhi,Bakery,10,2022-11-18
+REST000440,Flavour Bistro,Bengaluru,Chinese,10,2023-07-03
+REST000441,Biryani Express,Bengaluru,Chinese,27,2023-09-29
+REST000442,Punjab Bistro,Pune,North Indian,32,2022-06-15
+REST000443,Spice Junction,Kolkata,Desserts,12,2022-01-01
+REST000444,Curry House,Mumbai,Italian,34,2022-12-04
+REST000445,Curry Hub,Ahmedabad,Biryani,28,2022-10-18
+REST000446,Punjab Tadka,Kolkata,Desserts,19,2022-03-12
+REST000447,Spice House,Mumbai,Chinese,29,2022-04-18
+REST000448,Punjab Hub,Kolkata,Beverages,20,2023-05-05
+REST000449,Green Diner,Bengaluru,Chinese,17,2023-08-21
+REST000450,Spice Point,Chennai,Healthy Food,29,2022-06-30
+REST000451,Golden House,Kolkata,Biryani,32,2022-01-25
+REST000452,South Table,Chennai,Chinese,20,2024-03-20
+REST000453,Cloud Junction,Delhi,South Indian,14,2022-05-31
+REST000454,Spice Hub,Hyderabad,Chinese,31,2022-09-22
+REST000455,Flavour Express,Bengaluru,Italian,33,2022-07-22
+REST000456,Golden Corner,Delhi,Chinese,13,2023-07-17
+REST000457,Curry Cafe,Delhi,Healthy Food,22,2023-04-20
+REST000458,Flavour Tadka,Bengaluru,Bakery,15,2022-08-08
+REST000459,Curry Bowl,Chennai,South Indian,38,2023-07-23
+REST000460,Royal Bites,Chennai,Biryani,35,2022-03-23
+REST000461,Tasty Bowl,Ahmedabad,Beverages,11,2022-06-13
+REST000462,Urban Diner,Delhi,North Indian,34,2022-09-26
+REST000463,The Grand Point,Hyderabad,Desserts,37,2022-07-02
+REST000464,Metro Cafe,Pune,Desserts,34,2022-06-29
+REST000465,Spice Point,Mumbai,Healthy Food,37,2024-03-06
+REST000466,Biryani Tadka,Delhi,Bakery,35,2023-08-21
+REST000467,Flavour Tadka,Delhi,Biryani,35,2023-04-17
+REST000468,Curry Tadka,Ahmedabad,Beverages,15,2022-04-21
+REST000469,The Grand Hub,Ahmedabad,Beverages,31,2023-11-01
+REST000470,Royal House,Chennai,Fast Food,19,2022-02-14
+REST000471,Biryani Tadka,Bengaluru,South Indian,32,2023-07-04
+REST000472,Flavour Bowl,Delhi,Bakery,13,2023-06-16
+REST000473,Tasty Table,Kolkata,Fast Food,25,2023-09-01
+REST000474,Urban Hub,Delhi,North Indian,32,2023-03-07
+REST000475,Spice Junction,Bengaluru,Bakery,19,2022-12-24
+REST000476,Cloud Bowl,Delhi,Desserts,10,2022-02-28
+REST000477,Royal House,Ahmedabad,South Indian,22,2022-08-12
+REST000478,Metro Kitchen,Mumbai,North Indian,23,2024-03-20
+REST000479,Tasty Point,Mumbai,North Indian,32,2022-07-08
+REST000480,Punjab Kitchen,Pune,North Indian,21,2022-02-28
+REST000481,Cloud Kitchen,Mumbai,Italian,22,2022-01-08
+REST000482,Fresh Kitchen,Ahmedabad,Fast Food,10,2023-04-29
+REST000483,Royal Cafe,Delhi,Fast Food,36,2024-04-04
+REST000484,Urban Diner,Kolkata,North Indian,23,2023-02-10
+REST000485,Golden Point,Hyderabad,Desserts,17,2023-09-06
+REST000486,Tasty Cafe,Hyderabad,Chinese,35,2024-05-01
+REST000487,Golden Express,Kolkata,Italian,31,2023-04-17
+REST000488,Green Cafe,Bengaluru,Fast Food,23,2022-01-21
+REST000489,Golden Tadka,Delhi,Italian,39,2023-01-19
+REST000490,Punjab Table,Mumbai,Italian,10,2023-02-16
+REST000491,Punjab Table,Mumbai,Bakery,36,2022-11-01
+REST000492,South Bowl,Chennai,North Indian,37,2023-12-29
+REST000493,Spice Tadka,Mumbai,South Indian,26,2022-11-06
+REST000494,Spice Diner,Delhi,South Indian,25,2022-08-19
+REST000495,Tasty Cafe,Delhi,South Indian,21,2022-08-24
+REST000496,South Express,Hyderabad,Bakery,38,2023-10-25
+REST000497,Golden Tadka,Delhi,North Indian,38,2023-08-03
+REST000498,Cloud Tadka,Chennai,Bakery,29,2022-02-15
+REST000499,Flavour House,Mumbai,Biryani,32,2022-08-10
+REST000500,Urban Point,Pune,North Indian,14,2024-01-22
+REST000501,Spice Point,Chennai,Biryani,30,2022-06-05
+REST000502,The Grand Bites,Mumbai,North Indian,33,2022-04-05
+REST000503,Biryani Table,Chennai,Bakery,27,2023-09-01
+REST000504,The Grand Bistro,Pune,Chinese,13,2024-03-28
+REST000505,Metro Point,Chennai,Healthy Food,29,2022-03-24
+REST000506,Biryani Bistro,Bengaluru,Biryani,20,2022-09-02
+REST000507,Spice Cafe,Delhi,South Indian,17,2023-07-29
+REST000508,Royal Cafe,Kolkata,Italian,31,2022-01-10
+REST000509,Tasty Table,Chennai,Biryani,35,2022-03-30
+REST000510,Spice Junction,Mumbai,Healthy Food,18,2023-11-08
+REST000511,The Grand Diner,Kolkata,Beverages,35,2022-11-22
+REST000512,Royal Tadka,Kolkata,North Indian,34,2022-10-13
+REST000513,Golden Point,Delhi,Biryani,29,2022-08-03
+REST000514,Fresh Tadka,Mumbai,North Indian,19,2024-04-27
+REST000515,Flavour Corner,Bengaluru,Healthy Food,16,2022-03-13
+REST000516,Flavour Junction,Kolkata,Biryani,28,2022-07-27
+REST000517,South Bowl,Mumbai,Italian,31,2022-05-19
+REST000518,Biryani Tadka,Hyderabad,Bakery,38,2024-01-28
+REST000519,Golden Tadka,Pune,Italian,10,2023-01-14
+REST000520,Flavour Hub,Mumbai,Italian,14,2023-10-03
+REST000521,Metro Kitchen,Bengaluru,Desserts,15,2023-02-06
+REST000522,Urban Bistro,Mumbai,South Indian,21,2023-09-04
+REST000523,Spice Bites,Bengaluru,Italian,37,2023-06-07
+REST000524,Punjab Bowl,Bengaluru,Italian,21,2022-12-06
+REST000525,Tasty Corner,Delhi,Biryani,30,2022-06-25
+REST000526,Golden Tadka,Chennai,South Indian,23,2024-04-08
+REST000527,Delhi Junction,Delhi,Biryani,16,2022-12-23
+REST000528,Green Express,Pune,Bakery,37,2023-01-13
+REST000529,Spice Express,Chennai,South Indian,29,2022-11-12
+REST000530,Urban Bistro,Mumbai,Healthy Food,30,2024-05-31
+REST000531,Curry Diner,Mumbai,Healthy Food,29,2023-10-24
+REST000532,Delhi Junction,Mumbai,Desserts,23,2022-03-16
+REST000533,Spice Bistro,Delhi,Bakery,25,2022-04-09
+REST000534,Flavour Express,Chennai,Fast Food,18,2022-09-22
+REST000535,Cloud Point,Pune,Beverages,11,2024-01-25
+REST000536,Royal Junction,Chennai,Biryani,26,2022-03-24
+REST000537,Biryani Tadka,Pune,Biryani,13,2024-03-15
+REST000538,Cloud Kitchen,Mumbai,Chinese,23,2023-08-05
+REST000539,Tasty Bowl,Delhi,Chinese,23,2022-08-16
+REST000540,Punjab Junction,Mumbai,Fast Food,37,2023-11-15
+REST000541,Biryani Hub,Mumbai,Fast Food,24,2022-05-11
+REST000542,Tasty Table,Bengaluru,South Indian,37,2022-01-10
+REST000543,Punjab Kitchen,Delhi,Fast Food,21,2024-06-18
+REST000544,Delhi Hub,Bengaluru,North Indian,22,2023-07-22
+REST000545,Curry Bites,Mumbai,Beverages,31,2023-06-29
+REST000546,Green Corner,Hyderabad,Beverages,19,2022-09-01
+REST000547,Urban Bites,Mumbai,North Indian,25,2022-08-14
+REST000548,Cloud Bowl,Bengaluru,Chinese,38,2022-08-16
+REST000549,Delhi Bowl,Delhi,Biryani,38,2022-09-02
+REST000550,Flavour Tadka,Delhi,Healthy Food,39,2023-03-20
+REST000551,Spice Junction,Delhi,Chinese,24,2023-09-07
+REST000552,Biryani Table,Mumbai,Desserts,17,2023-12-10
+REST000553,Flavour Table,Delhi,Desserts,13,2024-06-05
+REST000554,Tasty House,Mumbai,Desserts,10,2024-03-23
+REST000555,Delhi Table,Kolkata,Fast Food,23,2024-04-04
+REST000556,Cloud Diner,Mumbai,Desserts,18,2023-04-06
+REST000557,Curry Cafe,Ahmedabad,Desserts,28,2023-12-22
+REST000558,Delhi Corner,Bengaluru,Bakery,15,2023-01-17
+REST000559,Biryani Point,Bengaluru,Desserts,25,2022-07-11
+REST000560,Tasty Junction,Pune,Biryani,35,2023-10-01
+REST000561,Tasty Junction,Pune,Desserts,39,2023-06-06
+REST000562,Green Kitchen,Delhi,Chinese,33,2024-04-21
+REST000563,Biryani Point,Mumbai,Beverages,20,2023-08-01
+REST000564,Cloud Express,Pune,Desserts,30,2024-05-19
+REST000565,Green Corner,Mumbai,Healthy Food,36,2024-05-02
+REST000566,Urban Bistro,Hyderabad,Italian,32,2022-06-07
+REST000567,Delhi Express,Kolkata,North Indian,20,2022-09-13
+REST000568,Punjab Express,Bengaluru,Desserts,23,2024-04-29
+REST000569,Metro Table,Delhi,Healthy Food,20,2023-07-01
+REST000570,Golden Bistro,Mumbai,Biryani,35,2023-05-21
+REST000571,Royal Corner,Mumbai,South Indian,23,2024-03-31
+REST000572,Golden Express,Hyderabad,Chinese,34,2022-06-16
+REST000573,Biryani Bistro,Bengaluru,Biryani,10,2024-05-29
+REST000574,Golden Point,Bengaluru,Healthy Food,20,2022-01-22
+REST000575,Tasty Kitchen,Mumbai,Biryani,39,2022-03-08
+REST000576,Biryani Point,Delhi,Bakery,33,2023-12-11
+REST000577,Biryani House,Ahmedabad,North Indian,27,2023-09-04
+REST000578,Cloud Express,Mumbai,Chinese,26,2024-04-27
+REST000579,Green Bistro,Delhi,Biryani,13,2023-12-08
+REST000580,Fresh Hub,Mumbai,North Indian,31,2023-09-04
+REST000581,Biryani Express,Mumbai,Beverages,23,2023-08-10
+REST000582,Tasty Express,Kolkata,Italian,17,2024-06-06
+REST000583,Curry Junction,Mumbai,Beverages,24,2022-01-17
+REST000584,South Bowl,Hyderabad,Italian,25,2023-10-21
+REST000585,Metro Table,Delhi,Biryani,10,2024-02-01
+REST000586,Biryani Cafe,Hyderabad,Desserts,10,2022-09-12
+REST000587,Cloud Bites,Chennai,Bakery,19,2022-07-07
+REST000588,Metro Diner,Delhi,Bakery,11,2022-11-24
+REST000589,Golden Hub,Mumbai,Biryani,34,2023-01-15
+REST000590,Green Kitchen,Mumbai,North Indian,21,2022-12-12
+REST000591,Punjab House,Bengaluru,Healthy Food,13,2022-08-28
+REST000592,Curry Corner,Bengaluru,Healthy Food,32,2023-04-18
+REST000593,Golden Kitchen,Kolkata,Desserts,28,2022-11-03
+REST000594,Flavour Express,Mumbai,Healthy Food,36,2022-06-25
+REST000595,Curry House,Pune,Desserts,10,2022-11-09
+REST000596,South Junction,Mumbai,Desserts,10,2023-06-28
+REST000597,Fresh Bowl,Mumbai,Italian,18,2022-12-01
+REST000598,Urban Bistro,Hyderabad,Chinese,39,2023-01-14
+REST000599,Tasty Point,Kolkata,Chinese,29,2023-09-26
+REST000600,Spice Kitchen,Delhi,South Indian,22,2024-04-15

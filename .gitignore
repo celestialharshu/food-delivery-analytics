@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.venv/
+
+# Environment / secrets
+.env
+*.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Raw data can be regenerated
+data/raw/*.csv
+
+# Keep processed CSVs in GitHub for the public dashboard
+# data/processed/*.csv
+
+# Power BI (binary, don't diff well in git — keep the .pbix out unless you want it versioned)
+*.pbix
+
+# Jupyter
+notebooks/.ipynb_checkpoints/
