@@ -57,7 +57,6 @@ if categories:
     filtered = filtered[filtered["food_category"].isin(categories)]
 
 st.title("Food Delivery Business Analytics Dashboard")
-st.caption("Python (Pandas/NumPy) → PostgreSQL → this dashboard. Source: github.com/<your-username>/food-delivery-analytics")
 
 tab1, tab2, tab3, tab4 = st.tabs(["Executive Overview", "Customers", "Operations", "Business Insights"])
 
@@ -157,5 +156,4 @@ with tab4:
     )
     st.dataframe(top_rest, use_container_width=True)
 
-st.markdown("---")
-st.caption("Built with Python, Pandas, PostgreSQL & Streamlit · Full SQL/Power BI version in the repo")
+
